@@ -1,8 +1,8 @@
-JavaScript Essential 
+## JavaScript Essential 
 
-This is a project given to revise JS essentials
+-- This is a project given to revise JS essentials
 
-Author:
+## Author:
 
---Name: Kawnullah Misbahudin 
+-- Name: Kawnullah Misbahudin 
 -- Github: [@IBn-Misbah](https://github.com/IBn-MIsbah)
